@@ -21,12 +21,6 @@ Este projeto foi desenvolvido pelo Squad 2 como parte da avaliação das sprints
 
   O JusIA encontra-se offline. Caso queira utilizá-lo, siga o guia abaixo (é necessário ter uma conta AWS)
   
-  <br>
-  
-  **🔗 Link direto:** [`@jus_ia_bot`](https://t.me/jus_ia_bot)
-  
-  <br>
-  
   > 📋 **Como usar:** Envie suas dúvidas jurídicas em linguagem natural e receba respostas fundamentadas em nossa base de conhecimento especializada em direito brasileiro.
   
 </div>
