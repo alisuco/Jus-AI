@@ -19,9 +19,7 @@ Este projeto foi desenvolvido pelo Squad 2 como parte da avaliação das sprints
   Experimente o **JusIA** diretamente no Telegram:
   <br>
 
-  <a href="https://t.me/jus_ia_bot">
-    <img src="https://img.shields.io/badge/Telegram-1E1E1E?style=for-the-badge&logo=telegram&logoColor=yellow" alt="Telegram Bot">
-  </a>
+  O JusIA encontra-se offline. Caso queira utilizá-lo, siga o guia abaixo (é necessário ter uma conta AWS)
   
   <br>
   
